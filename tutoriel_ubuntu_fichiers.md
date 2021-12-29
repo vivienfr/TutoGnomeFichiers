@@ -34,7 +34,7 @@ Pour chercher dans l’ensemble du « Dossier personnel », il faut au préalabl
 ![202112_ubuntu_fichiers_recherche_2.png](202112_ubuntu_fichiers_recherche_2.png)
 
 
-
+---
 
 ## Ouvrir le dossier où est stocké le fichier
 
@@ -45,7 +45,7 @@ Pour afficher rapidement ce dossier et tous les fichiers qu’il contient, cliqu
 ![202112_ubuntu_fichiers_recherche_3.png](202112_ubuntu_fichiers_recherche_3.png)
 
 
-
+---
 
 ## Afficher les fichiers sous forme de liste ou de grille
 
@@ -64,7 +64,7 @@ Il est possible d’agrandir ou réduire la taille des icônes, avec la loupe. A
 ![202112_ubuntu_fichiers_affichage_3.png](202112_ubuntu_fichiers_affichage_3.png)
 
 
-
+---
 
 ## Trier les fichiers par ordre alphabétique, taille ou date
 
@@ -90,7 +90,7 @@ Attention : Si le dossier comporter des sous-dossiers, ils sont triés en premie
 
 
 
-
+---
 
 ## Mettre un dossier fréquemment utilisé en signet
 
@@ -107,7 +107,7 @@ Pour supprimer un signet, il faut cliquer avec le bouton droit de la souris sur 
 ![202112_ubuntu_fichiers_signets_2.png](202112_ubuntu_fichiers_signets_2.png)
 
 
-
+---
 
 ## Mettre des fichiers en favoris pour avoir un bureau net
 
@@ -133,12 +133,16 @@ Les fichiers marqués sont listés dans leur dossier d’origine et dans « Favo
 ![202112_ubuntu_fichiers_favoris_2.png](202112_ubuntu_fichiers_favoris_2.png)
 
 
+---
+
 ## Accéder aux fichiers récents
 
 Les fichiers récemment créés ou modifiés sont disponibles dans le menu « Récents » tout en haut à gauche :
 
 ![202112_ubuntu_fichiers_recent.png](202112_ubuntu_fichiers_recent.png)
 
+
+---
 
 ## Navigation rapide dans les dossiers
 
@@ -158,6 +162,8 @@ Par exemple pour se rendre au dossier « Grappe » que j’ai entouré de bleu, 
 ![202112_ubuntu_fichiers_navigation.png](202112_ubuntu_fichiers_navigation.png)
 
 
+---
+
 ## Créer un nouveau dossier
 
 1. Aller dans le menu latéral en haut à droite ;
@@ -165,6 +171,8 @@ Par exemple pour se rendre au dossier « Grappe » que j’ai entouré de bleu, 
 
 ![202112_ubuntu_fichiers_nouveau_dossier.png](202112_ubuntu_fichiers_nouveau_dossier.png)
 
+
+---
 
 ## Ouvrir un fichier avec une autre application
 
@@ -177,6 +185,8 @@ Un menu permet de choisir avec d’autres logiciels compatibles avec le type de 
 
 ![202112_ubuntu_fichiers_ouvrir_avec_2.png](202112_ubuntu_fichiers_ouvrir_avec_2.png)
 
+
+---
 
 ## Créer un fichier compressé (.zip)
 
@@ -202,6 +212,8 @@ Le .zip n’est pas le meilleur en ratio de compression, mais il a l’avantage 
 Attention : certaines entreprises bloquent les fichiers .zip dans des mails car de nombreux virus se cachent dans des fichiers .zip joint à des mails qui incident l’utilisateur à ouvrir le fichier. Si c’est le cas, vous pouvez utiliser le format « .tar.xz » si votre correspondant est sous Linux ou Mac et « .7z » si votre correspondant est sous Windows.
 
 
+---
+
 ## Extraire les fichiers d’une archive .zip
 
 1. Télécharger le fichier .zip que l’on vous a envoyé ;
@@ -211,6 +223,8 @@ Attention : certaines entreprises bloquent les fichiers .zip dans des mails car 
 
 Le choix de « Extraire vers… » permet de sélectionner un autre dossier pour extraire les fichiers.
 
+
+---
 
 ## Éjecter proprement une clé USB
 
@@ -222,6 +236,8 @@ Une notification va apparaître en haut de l’écran autorisant l’éjection, 
 
 En cas de difficulté pour éjecter proprement une clé USB, il y a une solution simple : éteindre ou redémarrer l’ordinateur. Avant l’extinction, la clé USB sera proprement éjectée, après avoir forcé les applications qui utilisent des fichiers à se fermer si nécessaire.
 
+
+---
 
 ## Vérifier l’espace disque disponible
 
@@ -238,6 +254,8 @@ L’analyseur d’utilisation des disques va vous permettre de voir quels sont l
 ![202112_ubuntu_analyseur_utilisation_disque_2.png](202112_ubuntu_analyseur_utilisation_disque_2.png)
 
 
+---
+
 ## Afficher les métadonnées des fichiers
 
 Le gestionnaire de fichiers d’Ubuntu est en mesure de donner des métadonnées (informations) sur de nombreux médias. Il suffit de cliquer avec le bouton droit sur un fichier puis faire « Propriétés ».
@@ -250,6 +268,8 @@ Exemple avec un fichier PDF :
 
 ![202112_ubuntu_fichiers_proprietes_2.png](202112_ubuntu_fichiers_proprietes_2.png)
 
+
+---
 
 ## Résoudre les blocages d’impression
 
