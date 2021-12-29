@@ -10,13 +10,35 @@ Niveau débutant – Ubuntu 20.04 et suivants
 
 Bien utiliser les fonctions de base du gestionnaire de fichier permet de classer ses données dans une arborescence de dossiers permettant de retrouver rapidement ses fichiers et de gagner du temps. Une organisation efficace des documents numériques permet également de limiter l’utilisation de documents papier dans les archives.
 
+
+---
+
 ## Table des matières
 
-[[_TOC_]]
+- Rechercher un fichier
+- Ouvrir le dossier où est stocké le fichier
+* Afficher les fichiers sous forme de liste ou de grille
+* Trier les fichiers par ordre alphabétique, taille ou date
+* Mettre un dossier fréquemment utilisé en signet
+* Mettre des fichiers en favoris pour avoir un bureau net
+    Accéder aux fichiers récents
+    Navigation rapide dans les dossiers
+    Créer un nouveau dossier
+    Ouvrir un fichier avec une autre application
+    Créer un fichier compressé (.zip)
+    Extraire les fichiers d’une archive .zip
+    Éjecter proprement une clé USB
+    Vérifier l’espace disque disponible
+    Afficher les métadonnées des fichiers
+    Résoudre les blocages d’impression
+    
+ 
+ ---
 
 Ce document créé par Vivien Guéant est publié sous la licence Creative Commons BY-SA 4.0 (partage dans les mêmes conditions). Vous pouvez donc le diffuser, le modifier et le redistribuer. Suggestions : Forum LaFibre.info
 
 Version du 29 décembre 2021. Lien vers la dernière version : format PDF <https://lafibre.info/testdebit/ubuntu/tutoriel_ubuntu_fichiers.pdf> – format LibreOffice ODT <https://lafibre.info/testdebit/ubuntu/tutoriel_ubuntu_fichiers.odt>
+
 
 ---
 
