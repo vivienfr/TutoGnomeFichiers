@@ -15,22 +15,22 @@ Bien utiliser les fonctions de base du gestionnaire de fichier permet de classer
 
 ## Table des matières
 
-- Rechercher un fichier
-- Ouvrir le dossier où est stocké le fichier
+* Rechercher un fichier
+* Ouvrir le dossier où est stocké le fichier
 * Afficher les fichiers sous forme de liste ou de grille
 * Trier les fichiers par ordre alphabétique, taille ou date
 * Mettre un dossier fréquemment utilisé en signet
 * Mettre des fichiers en favoris pour avoir un bureau net
-    Accéder aux fichiers récents
-    Navigation rapide dans les dossiers
-    Créer un nouveau dossier
-    Ouvrir un fichier avec une autre application
-    Créer un fichier compressé (.zip)
-    Extraire les fichiers d’une archive .zip
-    Éjecter proprement une clé USB
-    Vérifier l’espace disque disponible
-    Afficher les métadonnées des fichiers
-    Résoudre les blocages d’impression
+* Accéder aux fichiers récents
+* Navigation rapide dans les dossiers
+* Créer un nouveau dossier
+* Ouvrir un fichier avec une autre application
+* Créer un fichier compressé (.zip)
+* Extraire les fichiers d’une archive .zip
+* Éjecter proprement une clé USB
+* Vérifier l’espace disque disponible
+* Afficher les métadonnées des fichiers
+* Résoudre les blocages d’impression
     
  
  ---
