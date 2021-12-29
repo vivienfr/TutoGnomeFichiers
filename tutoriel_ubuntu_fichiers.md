@@ -4,7 +4,7 @@ Niveau débutant – Ubuntu 20.04 et suivants
 
 « Gnome Fichiers » est le gestionnaire de fichiers utilisé par Ubuntu et les distributions Linux basées sur Gnome. Il permet d’organiser vos données : rechercher, ouvrir, copier, déplacer, compresser ou supprimer des fichiers. Il permet la prévisualisation de certains médias (images, fichiers PDF,…) sans avoir à lancer un programme spécial.
 
-<img src="logo_gnome_fichiers.svg" width="20%">
+<img src="logo_gnome_fichiers.svg" width="15%">
 
 <!-- ![](icone_gestionnaire_fichiers.png) -->
 
