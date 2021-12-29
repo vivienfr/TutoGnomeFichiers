@@ -263,7 +263,7 @@ La solution consiste souvent à supprimer tous les documents de liste des « tâ
 
 <!--  !<img src="202112_ubuntu_parametres.png" width="50%"> -->
 
-[202112_ubuntu_parametres.png](202112_ubuntu_parametres.png)
+![202112_ubuntu_parametres.png](202112_ubuntu_parametres.png)
 
 2. Dans la liste à gauche, chercher imprimantes ;
 3. Cliquer sur le bouton indiquant que plusieurs taches d’impressions sont actives ;
