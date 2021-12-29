@@ -18,7 +18,7 @@ Ce document créé par Vivien Guéant est publié sous la licence Creative Commo
 
 Version du 29 décembre 2021. Lien vers la dernière version : format PDF <https://lafibre.info/testdebit/ubuntu/tutoriel_ubuntu_fichiers.pdf> – format LibreOffice ODT <https://lafibre.info/testdebit/ubuntu/tutoriel_ubuntu_fichiers.odt>
 
-
+---
 
 ## Rechercher un fichier
 
